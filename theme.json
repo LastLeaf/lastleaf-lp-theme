@@ -1,0 +1,12 @@
+{
+	"title": "Secret Stories of LastLeaf",
+	"version": "0.6.0",
+	"author": "LastLeaf",
+	"url": "http://lastleaf.me",
+	"lightpalette": "0.6.x",
+	"routes": {
+		"main": "main.js",
+		"style": "main.css",
+		"tmpl": "main.tmpl"
+	}
+}
